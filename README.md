@@ -1,2 +1,6 @@
 # pangya-guides
-&lt;3
+
+just hosting a few of my guides for pangya. if you're a good player who has some suggestions, they're appreciated!
+
+* [the real noob's real quick guide to character building](noob-building/noob-building.md)
+* [the casual player's quick guide to unintuitive mechanics](/casual-mechanics/casual-mechanics.md)
