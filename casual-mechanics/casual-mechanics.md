@@ -63,7 +63,7 @@ how to go about that? you can either just have 7 as your spin stat (i.e. maximum
 it's very natural to consider 1m = 1y. it's also pretty wrong.  
 check out tonycheese's awesome mspaint diagram, in all its jpeg glory:
 
-![tonycheese awesome mspaint powers diagram](/images/tonycheese-powers.jpg)
+![tonycheese awesome mspaint powers diagram](/casual-mechanics/tonycheese-powers.jpg)
 
 so, both your % power and the height itself influence how many y each m is worth.  
 heights are hard, but if you just want a simple number that's better than 1 to use everywhere, i'd say consider each 1m as 0.8y.  
@@ -78,8 +78,9 @@ when i'm being casual i just think like "ok 1m here is probably worth about 4 po
 
 ## backspin basics
 
-backspin is the other bread and butter shot for the good casual player. how far does a 100% power backspin reach?
--16y is generally a pretty good estimate. so, if your power is 250y, a 100% backspin will reach about 234y, disregarding wind and elevation.
+backspin is the other bread and butter shot for the good casual player.  
+so, how far does a 100% power backspin reach?  
+-16y is generally a pretty good estimate. so, if your power is 250y, a 100% backspin will reach about 234y, disregarding wind and elevation.  
 something like -20y for 90%, and -24y for 80%.
 
 optimal spin for backspins (i.e. won't pop the hole) is 9.
@@ -87,8 +88,7 @@ optimal spin for backspins (i.e. won't pop the hole) is 9.
 
 ## wind basics
 
-the main thing to remember here is that the more time the ball is up in the air, the more it will be influenced by wind.
-so:
+the main thing to remember here is that the more time the ball is up in the air, the more it will be influenced by wind. so:  
 * **higher power**: more wind influence
 * **negative elevation (e.g. -10m)**: more wind influence
 * **positive elevation (e.g. +10m)**: less wind influence (obviously)
