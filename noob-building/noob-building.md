@@ -9,7 +9,7 @@ but there's so much to buy, where does one even start??
 first things first, 10 million of each currency is indeed A LOT, so don't worry too much about frivolous buys.  
 "pang" (P) is the in-game currency, while "points" (aka "cookies", C) are the supposedly real-money currency.
 
-now well, what are some "close to optimal" builds?  
+now well, what are some "actually pretty good" builds?  
 i won't optimize too much here, just the simple stuff you can do in 20 minutes as a clueless noob (so i won't mention stuff like memorial stuff, wind cards and Titan Cham here).
 
 ## basic stats
@@ -45,7 +45,7 @@ increasing impact zone:
 
 increasing control:
 * **(+4 control)** **Clothes > Bottoms**, or **Tops that also include bottoms**: anything that adds up to 4 control (e.g. Control+1/Slot+3)
-* **(+1 control, some characters)**: some characters also have Control+1 shoes, so check if yours does. that doesn't make their maximum control higher, they just kinda started with -1 control to begin with
+* **(+1 control, some characters)**: some characters also have Control+1 shoes, so check if yours does. that doesn't make their maximum control higher compared to other characters, they just kinda started with -1 control to begin with
 * **(+4 control)** **Caddie: Papel, Cien (N), Mingti, Tiki**
 
 as for the other stats, you can do whatever you want.
