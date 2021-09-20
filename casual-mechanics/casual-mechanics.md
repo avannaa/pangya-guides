@@ -44,7 +44,7 @@ the old tomahawk+backspin seems to be a bit unfashionable among the tryhard crow
 however, it'll always be simple, effective and low-risk, and should be the bread and butter of a good casual player.
 
 first things first: just how does power work?  
-it turns out that max power goes a little bit beyond what's stated, and things just behave pretty weirdly in general.  
+it turns out that max power (up to something over 330y) goes a little bit beyond what's stated, and things just behave pretty weirdly in general.  
 a pretty decent estimate is that, disregarding elevation and wind, 7 spin tomahawk max power is going to go about 4.5y beyond stated. so, say, 260y 100% tomahawk -> actually 264.5y.
 
 so, what about lower %s? well, it only gets weirder from there.  
@@ -65,22 +65,18 @@ check out tonycheese's awesome mspaint diagram, in all its jpeg glory:
 
 ![tonycheese awesome mspaint powers diagram](/casual-mechanics/tonycheese-powers.jpg)
 
-so, both your % power and the height itself influence how many y each m is worth.  
+so, both your % power and the height itself influence how many y each m is worth. 5m elevation at 100% will be "worth less" than 5m elevation at 90%, and +10m elevation will be worth more than twice +5m elevation, while -10m elevation will be worth less than twice -5m elevation.  
 heights are hard, but if you just want a simple number that's better than 1 to use everywhere, i'd say consider each 1m as 0.8y.  
-if you want some actual numbers, check the actual tryhard guide.
+if you want some actual numbers, check the actual tryhard guide (going to be made eventually).
 
-
-## wind and aim
-it's hard to comment on wind, but until you're up to like 270y or so (280y powershot) each 1m is worth less than 1y.  
-on aim, i'd recommend trying out the powerbar method for your estimates. see part 3 of [tonycheese's guide](https://abacusarchives.wordpress.com/tonycheeses-guide/) for an introduction.  
-when i'm being casual i just think like "ok 1m here is probably worth about 4 powerbars" and just aim away.
+also, that effect is less the lower the club. so, 5m elevation at 100% 1w will be "worth more" than 5m at 100% 3w, and worth MUCH more than 5m at 100% 8i.
 
 
 ## backspin basics
 
 backspin is the other bread and butter shot for the good casual player.  
 so, how far does a 100% power backspin reach?  
--16y is generally a pretty good estimate. so, if your power is 250y, a 100% backspin will reach about 234y, disregarding wind and elevation.  
+that will depend on your drive, but -16y is generally a pretty good estimate. so, if your power is 250y, a 100% backspin will reach about 234y, disregarding wind and elevation.  
 something like -20y for 90%, and -24y for 80%.
 
 optimal spin for backspins (i.e. won't pop the hole) is 9.
@@ -92,10 +88,19 @@ the main thing to remember here is that the more time the ball is up in the air,
 * **higher power**: more wind influence
 * **negative elevation (e.g. -10m)**: more wind influence
 * **positive elevation (e.g. +10m)**: less wind influence (obviously)
+* **lower club**: more wind influence. effect of wind on 2w is stronger than on 1w, and 6i is WAY stronger than both
 
 and a quick note on a common gotcha on angles.  
-this is pure old trigonometry, but a 45-degrees wind angle is NOT equivalent to 0.5m wind - 45-degrees is more like 0.71, or something like that.  
+this is pure old trigonometry, but a 45-degrees wind angle is NOT equivalent to 0.5m wind - 45-degrees is more like 0.7, or something like that.  
 from trigonometry we know that 30-degrees is actually 0.5, and 60-degrees is like 0.87. just something to have a feel for.
+
+
+## wind and aim
+it's hard to comment on wind, but when you're doing tomahawks up to like 270y or so (280y powershot) each 1m is worth less than 1y.  
+backspin wind influences are considerably higher, worth more than 1y at 100% (except for really low drives).
+on aim, i'd recommend trying out the powerbar method for your estimates. see part 3 of [tonycheese's guide](https://abacusarchives.wordpress.com/tonycheeses-guide/) for an introduction.  
+when i'm being casual i just think like "ok 1m here is probably worth about 4 powerbars (guesstimate adjusted to conditions)" and just aim away.
+
 
 that's all i can think of for now!  
 have fun~ :3
